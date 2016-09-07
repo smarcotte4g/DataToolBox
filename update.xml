@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="DataToolBox">
-		<version>0.1.2.0</version>
+		<version>0.1.3.0</version>
 		<url>http://tgcleaningservices.com/DataToolBox.exe</url>
 		<fileName>DataToolBox.exe</fileName>
-		<md5>90D7041D1431B0E8A45FDFABC88C4010</md5>
-		<description>Fixed R installation Checker</description>
+		<md5>756E70239F2F91A32D6C91BA9A7CA370</md5>
+		<description>Had to remove R installation Checker again.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
