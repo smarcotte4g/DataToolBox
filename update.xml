@@ -6,8 +6,9 @@
 		<fileName>DataToolBox.exe</fileName>
 		<md5>B130A5D271CCE6745863B6A1B5339C7A</md5>
 		<description>- This is a new change that has a ton of details. lets see how long the details can get and see if it creates new lines.
-		- This is a new line with more details.
-		- Here is some more shit that got added/fixed.</description>
+- This is a new line with more details.
+- Here is some more shit that got added/fixed.
+- Add a new line to see if it scrolls.</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
