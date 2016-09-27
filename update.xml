@@ -1,14 +1,13 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="DataToolBox">
-		<version>0.1.4.4</version>
+		<version>0.1.5.0</version>
 		<url>http://tgcleaningservices.com/DataToolBox.exe</url>
 		<fileName>DataToolBox.exe</fileName>
-		<md5>B130A5D271CCE6745863B6A1B5339C7A</md5>
-		<description><![CDATA[- This is a new change that has a ton of details. lets see how long the details can get and see if it creates new lines.
-- This is a new line with more details.
-- Here is some more shit that got added/fixed.
-- Add a new line to see if it scrolls.]]></description>
+		<md5>BF5E9B038170C66D06B134837C94FFE2</md5>
+		<description><![CDATA[- Added new R file
+- Completely rewrote Salesforce Formatter so the user has more more options
+- Added Update log button under Help for better tracking]]></description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
