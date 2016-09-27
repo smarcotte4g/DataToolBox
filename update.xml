@@ -5,7 +5,9 @@
 		<url>http://tgcleaningservices.com/DataToolBox.exe</url>
 		<fileName>DataToolBox.exe</fileName>
 		<md5>B56782607FEBD960F5306A6430F09858</md5>
-		<description>test\ntest</description>
+		<description>test
+			test
+			test2</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
