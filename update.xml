@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="DataToolBox">
-		<version>0.1.4.1</version>
+		<version>0.1.4.2</version>
 		<url>http://tgcleaningservices.com/DataToolBox.exe</url>
 		<fileName>DataToolBox.exe</fileName>
-		<md5>49CA148F07D27F67F7AEC74BB599FBEC</md5>
-		<description>Added Icon to Salesforce Parse Page. Expanded Salesforce Parse Page to be able to read it better.</description>
+		<md5>B56782607FEBD960F5306A6430F09858</md5>
+		<description>test\ntest</description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
