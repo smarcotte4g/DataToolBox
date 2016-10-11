@@ -1,13 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="DataToolBox">
-		<version>0.1.5.0</version>
+		<version>0.1.6.0</version>
 		<url>http://tgcleaningservices.com/DataToolBox.exe</url>
 		<fileName>DataToolBox.exe</fileName>
-		<md5>BF5E9B038170C66D06B134837C94FFE2</md5>
-		<description><![CDATA[- Added new R file
-- Completely rewrote Salesforce Formatter so the user has more more options
-- Added Update log button under Help for better tracking]]></description>
+		<md5>D79543A54FC0AC08FBCE5F7ACFE55EE0</md5>
+		<description><![CDATA[- Added a CSV Splitter by size coded in C#]]></description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
