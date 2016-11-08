@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <sharpUpdate>
 	<update appId="DataToolBox">
-		<version>0.1.6.0</version>
+		<version>0.1.6.1</version>
 		<url>http://tgcleaningservices.com/DataToolBox.exe</url>
 		<fileName>DataToolBox.exe</fileName>
-		<md5>D79543A54FC0AC08FBCE5F7ACFE55EE0</md5>
-		<description><![CDATA[- Added a CSV Splitter by size coded in C#]]></description>
+		<md5>D9FEF6897499FBC3B65A6A1E6D9EDB0E</md5>
+		<description><![CDATA[- Added File Encoding to the 'Remove Blank Columns' Function]]></description>
 		<launchArgs></launchArgs>
 	</update>
 </sharpUpdate>
