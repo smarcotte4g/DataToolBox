@@ -1,0 +1,10 @@
+c:\users\trigues\documents\visual studio 2013\Projects\DataToolBox\SharpUpdate\obj\Debug\SharpUpdate.csprojResolveAssemblyReference.cache
+c:\users\trigues\documents\visual studio 2013\Projects\DataToolBox\SharpUpdate\obj\Debug\SharpUpdate.Properties.Resources.resources
+c:\users\trigues\documents\visual studio 2013\Projects\DataToolBox\SharpUpdate\obj\Debug\SharpUpdate.SharpUpdateAcceptForm.resources
+c:\users\trigues\documents\visual studio 2013\Projects\DataToolBox\SharpUpdate\obj\Debug\SharpUpdate.SharpUpdateDownloadForm.resources
+c:\users\trigues\documents\visual studio 2013\Projects\DataToolBox\SharpUpdate\obj\Debug\SharpUpdate.SharpUpdateInfoForm.resources
+c:\users\trigues\documents\visual studio 2013\Projects\DataToolBox\SharpUpdate\obj\Debug\SharpUpdate.csproj.GenerateResource.Cache
+c:\users\trigues\documents\visual studio 2013\Projects\DataToolBox\SharpUpdate\bin\Debug\SharpUpdate.dll
+c:\users\trigues\documents\visual studio 2013\Projects\DataToolBox\SharpUpdate\bin\Debug\SharpUpdate.pdb
+c:\users\trigues\documents\visual studio 2013\Projects\DataToolBox\SharpUpdate\obj\Debug\SharpUpdate.dll
+c:\users\trigues\documents\visual studio 2013\Projects\DataToolBox\SharpUpdate\obj\Debug\SharpUpdate.pdb
