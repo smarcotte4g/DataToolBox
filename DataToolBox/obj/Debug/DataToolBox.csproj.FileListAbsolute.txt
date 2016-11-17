@@ -18,3 +18,6 @@ c:\users\trigues\documents\visual studio 2013\Projects\DataToolBox\DataToolBox\b
 C:\Users\Trigues\Documents\Visual Studio 2013\Projects\DataToolBox\DataToolBox\obj\Debug\DataToolBox.SFDialog.resources
 C:\Users\Trigues\Documents\Visual Studio 2013\Projects\DataToolBox\DataToolBox\obj\Debug\DataToolBox.Splitter.resources
 C:\Users\Trigues\Documents\Visual Studio 2013\Projects\DataToolBox\DataToolBox\obj\Debug\DataToolBox.FileSmasher.resources
+C:\Users\Trigues\Documents\GitHub\DataToolBox\DataToolBox\bin\Debug\DataToolBox.exe.config
+C:\Users\Trigues\Documents\GitHub\DataToolBox\DataToolBox\obj\Debug\DataToolBox.exe
+C:\Users\Trigues\Documents\GitHub\DataToolBox\DataToolBox\obj\Debug\DataToolBox.pdb

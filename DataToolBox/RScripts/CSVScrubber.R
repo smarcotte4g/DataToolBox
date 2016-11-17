@@ -6,5 +6,5 @@ csvScrubber <- function(pathChanged, fileName) {
   deleteNoData <- read.csv(fileName, header = TRUE)
   # Delete all columns with no data
   cleanFile <- deleteNoData[!sapply(deleteNoData, function (x) all(is.na(x) | x == ""))]
-  write.csv(cleanFile, file = file.path(wd, newFileName), na="", row.names = F)
+  write.csv(cleanFile, file = file.path(wd, newFileName), na="", row.names = F, fileEncoding = "UTF-8")
 }
